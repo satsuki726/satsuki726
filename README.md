@@ -12,17 +12,25 @@ I am a physics student at UCL, interested in differential equations, numerical m
 
 I am investigating compressible flow and pressure-wave propagation using a supervisor-provided OpenFOAM framework with an overset mesh. My current work focuses on mesh refinement and developing analysis of pressure histories. Systematic numerical verification and comparison with experimental measurements are planned.
 
+[Project brief — supervisor-provided starting material](https://github.com/satsuki726/satsuki726/blob/main/project-files/openfoam-supervisor-project-brief.docx)
+
 ### Physics laboratory data analysis
 
 **RLC resonance and the electron charge-to-mass ratio · Python**
 
 I have used curve fitting, uncertainty propagation and residual analysis to investigate differences between mathematical models and experimental measurements. In an electron charge-to-mass experiment, repeating measurements with finer current adjustment and readout reduced the estimate's relative difference from the reference value from 12% to 1.1%.
 
+[RLC resonance report](https://github.com/satsuki726/satsuki726/blob/main/project-files/ucl-rlc-resonance-report.pdf) · [Electron charge-to-mass ratio report](https://github.com/satsuki726/satsuki726/blob/main/project-files/ucl-electron-charge-to-mass-report.pdf)
+
 ### Nanotechnology and biofuel
 
 **Brown University summer school · July 2023**
 
 I compared silver nanoparticles and carbon nanotubes as biofuel additives through controlled combustion trials and dynamic light scattering measurements. I analysed three trials per condition and presented the quantitative findings in a technical report and presentation.
+
+[Final report](https://github.com/satsuki726/satsuki726/blob/main/project-files/brown-2023-final-report.pdf) · [Final presentation](https://github.com/satsuki726/satsuki726/blob/main/project-files/brown-2023-final-presentation.pptx) · [Coursework archive](https://github.com/satsuki726/satsuki726/tree/main/project-files#brown-nanotechnology-2023-coursework-archive)
+
+Browse [all project files](https://github.com/satsuki726/satsuki726/tree/main/project-files) for supporting presentations, research updates and project documentation.
 
 ## Tools and methods
 
