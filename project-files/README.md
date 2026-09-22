@@ -30,6 +30,7 @@ The reported 16.8% and 24.9% reductions compare mean combustion times with the c
 - [13 July update](brown-2023-progress-13-july.pptm) — Early experimental work and proposed next steps.
 - [Update 2](brown-2023-progress-update-2.pptx) — Nanoparticle preparation, characterisation and further experiment plans.
 - [20 July update](brown-2023-progress-20-july.pptx) — Photographic record of experimental progress.
+- [26 July update](https://github.com/satsuki726/satsuki726/releases/download/brown-2023-coursework/brown-2023-progress-26-july.pptx) — Experimental progress and combustion-time comparisons.
 
 ### Background and planning
 
