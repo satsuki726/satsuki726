@@ -10,6 +10,8 @@ I am a physics student at UCL, interested in differential equations, numerical m
 
 **Ongoing university project · OpenFOAM, Python, ParaView**
 
+**Supervisor:** Toby Bryce-Smith, Department of Aeronautics, Imperial College London.
+
 I am investigating compressible flow and pressure-wave propagation using a supervisor-provided OpenFOAM framework with an overset mesh. My current work focuses on mesh refinement and developing analysis of pressure histories. Systematic numerical verification and comparison with experimental measurements are planned.
 
 [Project brief — supervisor-provided starting material](https://github.com/satsuki726/satsuki726/blob/main/project-files/openfoam-supervisor-project-brief.docx)
