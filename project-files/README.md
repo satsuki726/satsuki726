@@ -9,6 +9,8 @@ Reports, presentations and supporting materials from my physics studies and rese
 
 ## Train-induced pressure waves
 
+**Supervisor:** Toby Bryce-Smith, Department of Aeronautics, Imperial College London.
+
 - [OpenFOAM project brief](openfoam-supervisor-project-brief.docx) — Supervisor-provided starting material by Toby Bryce-Smith for an ongoing train–tunnel aerodynamics project. It introduces the computational setup and proposed investigation of tunnel hoods and suction. The supplied baseline model and example results belong to the supervisor's starting material; this brief records the project's foundation and planned work.
 
 ## Brown nanotechnology: 2023 coursework archive
